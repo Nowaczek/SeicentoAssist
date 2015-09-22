@@ -1,0 +1,8 @@
+D:\Programy\Microsoft\Visual Studio 2010\Projects\SeicentoAssist\SeicentoAssist\bin\Debug\SeicentoAssist.exe
+D:\Programy\Microsoft\Visual Studio 2010\Projects\SeicentoAssist\SeicentoAssist\bin\Debug\SeicentoAssist.pdb
+D:\Programy\Microsoft\Visual Studio 2010\Projects\SeicentoAssist\SeicentoAssist\obj\x86\Debug\SeicentoAssist.Properties.Resources.resources
+D:\Programy\Microsoft\Visual Studio 2010\Projects\SeicentoAssist\SeicentoAssist\obj\x86\Debug\SeicentoAssist.csproj.GenerateResource.Cache
+D:\Programy\Microsoft\Visual Studio 2010\Projects\SeicentoAssist\SeicentoAssist\obj\x86\Debug\SeicentoAssist.exe
+D:\Programy\Microsoft\Visual Studio 2010\Projects\SeicentoAssist\SeicentoAssist\obj\x86\Debug\SeicentoAssist.pdb
+D:\Programy\Microsoft\Visual Studio 2010\Projects\SeicentoAssist\SeicentoAssist\obj\x86\Debug\SeicentoAssist.csprojResolveAssemblyReference.cache
+D:\Programy\Microsoft\Visual Studio 2010\Projects\SeicentoAssist\SeicentoAssist\obj\x86\Debug\SeicentoAssist.FormMain.resources
